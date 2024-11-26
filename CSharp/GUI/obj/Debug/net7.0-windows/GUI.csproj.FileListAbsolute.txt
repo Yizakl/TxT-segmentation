@@ -1,0 +1,14 @@
+H:\CupricSA\下载\txt\CSharp\GUI\bin\Debug\net7.0-windows\GUI.exe
+H:\CupricSA\下载\txt\CSharp\GUI\bin\Debug\net7.0-windows\GUI.deps.json
+H:\CupricSA\下载\txt\CSharp\GUI\bin\Debug\net7.0-windows\GUI.runtimeconfig.json
+H:\CupricSA\下载\txt\CSharp\GUI\bin\Debug\net7.0-windows\GUI.dll
+H:\CupricSA\下载\txt\CSharp\GUI\bin\Debug\net7.0-windows\GUI.pdb
+H:\CupricSA\下载\txt\CSharp\GUI\obj\Debug\net7.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+H:\CupricSA\下载\txt\CSharp\GUI\obj\Debug\net7.0-windows\GUI.AssemblyInfoInputs.cache
+H:\CupricSA\下载\txt\CSharp\GUI\obj\Debug\net7.0-windows\GUI.AssemblyInfo.cs
+H:\CupricSA\下载\txt\CSharp\GUI\obj\Debug\net7.0-windows\GUI.csproj.CoreCompileInputs.cache
+H:\CupricSA\下载\txt\CSharp\GUI\obj\Debug\net7.0-windows\GUI.dll
+H:\CupricSA\下载\txt\CSharp\GUI\obj\Debug\net7.0-windows\refint\GUI.dll
+H:\CupricSA\下载\txt\CSharp\GUI\obj\Debug\net7.0-windows\GUI.pdb
+H:\CupricSA\下载\txt\CSharp\GUI\obj\Debug\net7.0-windows\GUI.genruntimeconfig.cache
+H:\CupricSA\下载\txt\CSharp\GUI\obj\Debug\net7.0-windows\ref\GUI.dll

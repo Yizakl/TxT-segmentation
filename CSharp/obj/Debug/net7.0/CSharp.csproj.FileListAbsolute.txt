@@ -1,0 +1,4 @@
+H:\CupricSA\下载\txt\CSharp\obj\Debug\net7.0\CSharp.GeneratedMSBuildEditorConfig.editorconfig
+H:\CupricSA\下载\txt\CSharp\obj\Debug\net7.0\CSharp.AssemblyInfoInputs.cache
+H:\CupricSA\下载\txt\CSharp\obj\Debug\net7.0\CSharp.AssemblyInfo.cs
+H:\CupricSA\下载\txt\CSharp\obj\Debug\net7.0\CSharp.csproj.CoreCompileInputs.cache
